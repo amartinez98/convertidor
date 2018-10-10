@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	background-color: #4286f4;
+}
+.main{
+	text-align: center;
+	
+}
+.temperatura{
+	margin: 0 auto;
+	margin-top: 20px;
+	display: inline-block;block;
+	background-color: #398e27;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.caja{
+	background-color: #42a39c;
+	width: 49.1%;
+	display: inline-block;
+	font-size: 180%;
+}
+.medida{
+	background-color: #bba0d8;
+	width: 48%;
+	padding: 10px;
+	display: inline-block;
+}
+.text{
+	font-size: 30px;
+	width: 98.8%;
+	text-align: center;
+	text
+}
+.text textarea{
+	vertical-align: middle;
+}
+.custom-select{
+	position: relative;
+	margin: 0 auto;
+	/font-family: Arial;
+	font-size: 20px;
+}
+.select{
+	padding: 10px;
+	font-size: 15px;
+	background-color: #42a39c;
+	color: white;
+}
+.igual{
+	display: inline-block;
+	width: 1%;
+	margin: 0 auto;
+
+}
+.igual h1{
+	margin: 0;
+	color: white;
+}
